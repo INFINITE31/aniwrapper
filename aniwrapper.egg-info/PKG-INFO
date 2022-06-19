@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: aniwrapper
+Version: 1.0.0a0
+Summary: a python api wrapper for the anime image generator api
+Home-page: https://github.com/infinite31/aniwrapper
+Author: INFINITE_.
+Author-email: work4infinite@gmail.com
+License: MIT
+Description: ## A Simple python api wrapper
+        
+        [API Here](https://anime-api.hisoka17.repl.co/)
+        
+        ### How to use
+        
+        This api has many endpoints and the wrapper uses them all.
+        For example if you want to generate an 'hug' image use can use;
+        
+        ```py
+        from aniwrapper import anime
+        anime hug(link=True)
+        #For generating a link of the image
+        ```
+        
+        OR
+        
+        ```py
+        from aniwrapper import anime
+        anime.hug(link=False)
+        #For generating the image
+        ```
+        
+        ### However it also has nsfw endpoints
+        
+        ```py
+        from aniwrapper imprt nsfw
+        nsfw.hentai(link=True)
+        #Will generate a nsfw image
+        ```
+        
+        
+        If you have any problems regarding this package mail me at work4infinite@gmail.com.
+        
+Keywords: python,image,anime,api,wrapper,py
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown

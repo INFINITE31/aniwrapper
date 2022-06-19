@@ -1,0 +1,8 @@
+README.md
+setup.py
+aniwrapper/__init__.py
+aniwrapper.egg-info/PKG-INFO
+aniwrapper.egg-info/SOURCES.txt
+aniwrapper.egg-info/dependency_links.txt
+aniwrapper.egg-info/requires.txt
+aniwrapper.egg-info/top_level.txt
