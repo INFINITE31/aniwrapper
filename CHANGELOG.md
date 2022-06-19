@@ -1,1 +1,5 @@
-# UPDATED TO 0.0.1a
+# UPDATED TO 1.0.0-Aplha
+
+## Fixed every possible bug
+## But still slow
+## ...
