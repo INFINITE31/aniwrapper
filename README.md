@@ -1,5 +1,5 @@
-## Simple api wrapper for (https://anime-api.hisoka17.repl.co/)["This api"]
-;)
+## A Simple python api wrapper 
+(https://anime-api.hisoka17.repl.co/)["For this api]
 
 ### HOW TO USE
 
