@@ -1,8 +1,7 @@
-#THIS IS A SIMPLE PYTHON API WRAPPER FOR GENERATING SFW AND NSFW ANIME IMAGES
-## MADE BY INFINITE_.
-## IF YOU HAVE ANY PROBLEMS REGARDING THIS PACKAGE PLEASE MAIL ME AT work4infinite@gmail.com
+# THIS IS A SIMPLE PYTHON API WRAPPER FOR GENERATING SFW AND NSFW ANIME IMAGES
+;)
 
-#HOW TO USE
+## HOW TO USE
 
 This api has many endpoints and the wrapper uses them all.
 For example if you want to generate an 'hug' image use can use;
@@ -19,3 +18,4 @@ await kiss(link=False)
 #For generating the image
 ```
 
+If you have any problems regarding this package mail me at work4infinite@gmail.com.
