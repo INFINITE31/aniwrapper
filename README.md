@@ -1,7 +1,7 @@
-# THIS IS A SIMPLE PYTHON API WRAPPER FOR GENERATING SFW AND NSFW ANIME IMAGES
+## Simple api wrapper for (https://anime-api.hisoka17.repl.co/)["This api"]
 ;)
 
-## HOW TO USE
+### HOW TO USE
 
 This api has many endpoints and the wrapper uses them all.
 For example if you want to generate an 'hug' image use can use;
