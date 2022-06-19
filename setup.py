@@ -9,12 +9,12 @@ classifiers = [
 ]
 
 setup(
-    name='anime-images-generator',
+    name='aniwrapper',
     version='0.0.1a',
     description='a python api wrapper for the anime image generator api',
     long_description=open('README.md').read() + '\n\n' +
     open('CHANGELOG.md').read(),
-    url="https://github.com/infinite31/anime-images-generator",
+    url="https://github.com/infinite31/aniwrapper",
     author="INFINITE_.",
     author_email='work4infinite@gmail.com',
     license='MIT',
