@@ -20,6 +20,5 @@ setup(
     license='MIT',
     classifiers=classifiers,
     keywords=['python', 'image', 'anime', 'api', 'wrapper', 'py'],
-    packages=['requests'],
-    install_requires=['download', 'rich']
+    install_requires=['requests']
 )
