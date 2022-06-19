@@ -2,6 +2,11 @@
 
 [API Here](https://anime-api.hisoka17.repl.co/)
 
+### How to install
+```
+pip install aniwrapper
+```
+
 ### How to use
 
 This api has many endpoints and the wrapper uses them all.
