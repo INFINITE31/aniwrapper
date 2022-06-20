@@ -1,7 +1,6 @@
 import requests
 from random import choice
 import json
-from PIL import Image
 
 
 base_url = "https://anime-api.hisoka17.repl.co/img"
