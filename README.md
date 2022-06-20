@@ -14,7 +14,7 @@ For example if you want to generate an 'hug' image use can use;
 
 ```py
 from aniwrapper import anime
-anime hug(link=True)
+anime.hug(link=True)
 #For generating a link of the image
 ```
 
