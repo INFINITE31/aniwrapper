@@ -10,7 +10,7 @@ pip install aniwrapper
 ### How to use
 
 This api has many endpoints and the wrapper uses them all.
-For example if you want to generate an 'hug' image use can use;
+For example if you want to generate an 'hug' image you can use;
 
 ```py
 from aniwrapper import anime
