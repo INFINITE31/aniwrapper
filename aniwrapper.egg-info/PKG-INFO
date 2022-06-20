@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: aniwrapper
-Version: 1.0.0a0
-Summary: a python api wrapper for the anime image generator api
+Version: 1.0.0b1
+Summary: A python api wrapper for the anime image generator api
 Home-page: https://github.com/infinite31/aniwrapper
 Author: INFINITE_.
 Author-email: work4infinite@gmail.com
@@ -17,7 +17,7 @@ Description: ## A Simple python api wrapper
         
         ```py
         from aniwrapper import anime
-        anime hug(link=True)
+        anime.hug(link=True)
         #For generating a link of the image
         ```
         
@@ -40,7 +40,7 @@ Description: ## A Simple python api wrapper
         
         If you have any problems regarding this package mail me at work4infinite@gmail.com.
         
-Keywords: python,image,anime,api,wrapper,py
+Keywords: python,gif-generator,anime,api,wrapper
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Planning
 Classifier: Intended Audience :: Developers

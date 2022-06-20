@@ -10,8 +10,8 @@ classifiers = [
 
 setup(
     name='aniwrapper',
-    version='1.0.0a',
-    description='a python api wrapper for the anime image generator api',
+    version='1.0.0b1',
+    description='A python api wrapper for the anime image generator api',
     long_description=open('README.md').read(),
     long_description_content_type = 'text/markdown',
     url="https://github.com/infinite31/aniwrapper",
@@ -19,7 +19,7 @@ setup(
     author_email='work4infinite@gmail.com',
     license='MIT',
     classifiers=classifiers,
-    keywords=['python', 'image', 'anime', 'api', 'wrapper', 'py'],
+    keywords=['python', 'gif-generator', 'anime', 'api', 'wrapper'],
     install_requires=['requests'],
     packages=find_packages()
 )
